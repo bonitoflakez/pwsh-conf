@@ -3,17 +3,17 @@
 Normal
 
 ```txt
-directory
-
->
+directory #
 ```
 
 In git directories
 
 ```txt
-directory <branch> [uncommitted-files]
+-- With committed files
+directory <branch> #
 
->
+-- With uncommitted files
+directory <branch> [no. of uncommitted files] #
 ```
 
 ## Setup
